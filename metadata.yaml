@@ -1,0 +1,37 @@
+_repo: English-Painterswith-a-chapter-on-American-painters_39265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39265-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wilmot-Buxton, H. J. (Harry John)
+    aliases:
+    - Wilmot-Buxton, Harry John
+    - Buxton, Henry John Wilmot
+    birthdate: 1843
+    deathdate: 1911
+    gutenberg_agent_id: '25079'
+    url: http://www.gutenberg.org/2009/agents/25079
+  - agent_name: Koehler, S. R. (Sylvester Rosa)
+    alias: Koehler, Sylvester Rosa
+    birthdate: 1837
+    deathdate: 1900
+    gutenberg_agent_id: '36584'
+    url: http://www.gutenberg.org/2009/agents/36584
+description: ''
+gutenberg_issued: '2012-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39265'
+  lccn: '11022626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters -- England'
+- !lcc 'ND'
+- !lcsh 'Painters -- United States'
+title: English Painters, with a Chapter on American Painters
+url: http://www.gutenberg.org/ebooks/39265
