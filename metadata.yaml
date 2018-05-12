@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '36584'
     url: http://www.gutenberg.org/2009/agents/36584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39265#English-Painterswith-a-chapter-on-American-painters
 gutenberg_issued: '2012-03-25'
 gutenberg_type: Text
 identifiers:
